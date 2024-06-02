@@ -61,7 +61,7 @@
 
 #endregion
 
-#region divide to numbers
+#region divide two numbers
 
 //Console.Write("bolunen daxil edin: ");
 //int bolunen = int.Parse(Console.ReadLine());
